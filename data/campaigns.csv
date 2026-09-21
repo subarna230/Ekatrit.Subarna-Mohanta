@@ -1,0 +1,21 @@
+campaign_id,campaign_name,category,description,location,goal_amount,raised_amount,donors,status,start_date,end_date
+1,Education for All,Education,Support school education and learning resources for students.,Bhubaneswar,200000,145000,235,Verified,2026-09-01,2026-12-31
+2,Medical Support,Medical,Help families manage urgent medical expenses.,Kolkata,150000,85000,142,Verified,2026-09-03,2026-12-15
+3,Disaster Relief,Disaster Relief,"Provide emergency food, shelter and essential supplies after disasters.",Guwahati,300000,175000,310,Verified,2026-09-02,2026-11-30
+4,Food for Everyone,Food,Support nutritious meals for people facing food insecurity.,Cuttack,100000,42000,96,Verified,2026-09-05,2026-12-20
+5,Green Community,Environment,Community tree planting and local environmental improvement.,Pune,120000,68000,121,Verified,2026-09-06,2027-01-15
+6,Digital Learning Hub,Education,Provide digital learning resources and devices for students.,Ranchi,250000,112000,178,Verified,2026-09-04,2027-01-10
+7,Clean Water Initiative,Community Development,Improve access to safe drinking water in underserved communities.,Puri,180000,100001,155,Verified,2026-09-07,2027-01-05
+8,Elder Care Support,Community Development,Support essential care and companionship programs for senior citizens.,Bengaluru,140000,73500,118,Verified,2026-09-08,2026-12-28
+9,Animal Rescue Care,Animal Welfare,"Support rescue, food and treatment for vulnerable animals.",Bhubaneswar,90000,47500,83,Verified,2026-09-09,2026-12-10
+10,Women Skill Development,Skill Development,Provide practical skill training and resources for women.,Jaipur,160000,91500,137,Verified,2026-09-10,2027-01-20
+11,School Library Project,Education,Build and improve school libraries with books and learning material.,Sambalpur,110000,52000,91,Verified,2026-09-11,2026-12-25
+12,Emergency Family Support,Medical,Provide temporary support to families facing medical emergencies.,Hyderabad,220000,131000,204,Verified,2026-09-12,2026-12-30
+13,Community Kitchen,Food,Support a community kitchen providing regular meals.,Chennai,130000,64500,105,Verified,2026-09-13,2027-01-05
+14,Rainwater Harvesting,Environment,Install community rainwater harvesting systems.,Ahmedabad,175000,83000,129,Verified,2026-09-14,2027-02-01
+15,Rural Sports Program,Youth,Provide sports equipment and activities for rural youth.,Balasore,95000,38500,72,Verified,2026-09-15,2026-12-18
+16,Accessible Learning,Education,Create accessible learning resources for students with different needs.,New Delhi,190000,104000,151,Verified,2026-09-16,2027-01-25
+17,Senior Digital Literacy,Skill Development,Help senior citizens learn essential digital skills.,Mumbai,80000,29750,54,Pending Verification,2026-09-17,2026-12-20
+18,Village Solar Lights,Environment,Install solar-powered lighting in rural communities.,Koraput,210000,171500,188,Verified,2026-09-18,2027-02-15
+19,Child Nutrition Drive,Food,Support nutrition programs for children.,Patna,155000,76500,126,Verified,2026-09-19,2027-01-15
+20,Community Health Camp,Medical,Support basic health check-ups and awareness camps.,Rourkela,125000,59000,98,Verified,2026-09-20,2026-12-31
