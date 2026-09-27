@@ -1126,34 +1126,10 @@ Infrastructure security
 
 ---
 
-❤️ Made With Love
+❤️ Made With Love by Subarna Mohanta♥️
 
 This project was designed and developed with the idea of using technology to encourage meaningful participation and community impact.
 
-<p align="center">🤝 Made with ❤️ by Subarna Mohanta
+Here is the link of the Ekatrit prototype app: https://ekatritsubarna-mohanta-v8fyewhkqhlfemhrazg6d5.streamlit.app/
 
-Ekatrit — Bringing People and Purpose Together.
-
-</p>
----
-
-⭐ Support the Project
-
-If you find this project interesting:
-
-⭐ Star the repository
-🍴 Fork the project
-💡 Share your ideas
-🐛 Report issues
-🤝 Contribute improvements
-
-Every contribution helps make the project better.
-
-
----
-
-
-
-Here is the link of the Ekatrit prototype app:https://ekatritsubarna-mohanta-v8fyewhkqhlfemhrazg6d5.streamlit.app/
-
-<p align="center">Thank you for exploring Ekatrit! ❤️
+Thank you for exploring Ekatrit! ❤️
